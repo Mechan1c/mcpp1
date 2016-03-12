@@ -268,6 +268,10 @@ public class AList2 implements EList
 	{
 		
 	}
+	public void someName()
+	{
+		
+	}
 }
 
 
