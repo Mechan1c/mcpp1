@@ -264,6 +264,10 @@ public class AList2 implements EList
 			}
 		}
 	}
+	public void delaiSuka(int abrvalg)
+	{
+		
+	}
 }
 
 
