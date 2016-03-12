@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2016-03-03T12:36:00Z" finished-at="2016-03-03T12:36:01Z">
+    <groups>
+      <group name="mainT">
+        <method signature="EListTestNG.testAddStart_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_0" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testAddStart_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_1" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testAddStart_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_2" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testAddStart_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_Many" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testClear_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_0" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testClear_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_1" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testClear_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_2" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testClear_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_Many" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testInit_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_0" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testInit_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_1" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testInit_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_2" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testInit_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_Many" class="AListOps.EListTestNG"/>
+        <method signature="EListTestNG.testInit_null()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_null" class="AListOps.EListTestNG"/>
+      </group> <!-- mainT -->
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2016-03-03T12:36:00Z" finished-at="2016-03-03T12:36:01Z">
+      <class name="AListOps.EListTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="16" started-at="2016-03-03T14:36:00Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testAddStart_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_0" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddStart_0 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testClear_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_2" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClear_2 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testInit_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_1" duration-ms="16" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit_1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testClear_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_1" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClear_1 -->
+        <test-method status="PASS" signature="testAddStart_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_Many" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddStart_Many -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testClear_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_Many" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClear_Many -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testClear_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testClear_0" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClear_0 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testInit_0()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_0" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit_0 -->
+        <test-method status="PASS" signature="testAddStart_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_2" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddStart_2 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testAddStart_1()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testAddStart_1" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddStart_1 -->
+        <test-method status="PASS" signature="testInit_null()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_null" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit_null -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testInit_2()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_2" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit_2 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testInit_Many()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="testInit_Many" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit_Many -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AListOps.EListTestNG@c39f790]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-03-03T14:36:01Z" finished-at="2016-03-03T14:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+      </class> <!-- AListOps.EListTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
